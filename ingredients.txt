@@ -2,5 +2,6 @@ water
 salt
 spaghetti
 tomato
+chilli
 pepper
 meat
